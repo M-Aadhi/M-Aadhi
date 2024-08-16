@@ -4,11 +4,11 @@
 <img align="right" alt ="coding" width="400" src="/assets/computing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-aadhi&label=Profile%20views&color=0e75b6&style=flat" alt="m-aadhi" /> </p>
 
-- 🌱 I’m currently studying **College**
+- 🌱 I’m currently studying **College.**
 
 - 💬 I love **Java , Linux , Valorant.**
 
-- 📫 To reach me **[Mail](r2004marimuthu@gmail.com)**<br>
+- 📫 To reach me **[Mail.](r2004marimuthu@gmail.com)**<br>
                  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
