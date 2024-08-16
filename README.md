@@ -1,7 +1,7 @@
 ![logo](/assets/banner.gif)
-<h1 align="center">Hi 👋, I'm Marimuthu</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt ="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+## Hey, [Mari's here!]()  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<h3 align="center">A passionate java developer from India</h3>
+<img align="right" alt ="coding" width="400" src="/assets/computing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-aadhi&label=Profile%20views&color=0e75b6&style=flat" alt="m-aadhi" /> </p>
 
 - 🌱 I’m currently learning **Big Data**
