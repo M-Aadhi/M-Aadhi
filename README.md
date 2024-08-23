@@ -8,7 +8,7 @@
 
 - 💬 I love **Java , Linux , Valorant.**
 
-- 📫 To reach me **[Mail.](r2004marimuthu@gmail.com)**<br>
+- 📫 To reach me **[Mail.](https://www.linkedin.com/in/i-will-take-u-2-my-dp/)**<br>
                  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
