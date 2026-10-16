@@ -1,68 +1,84 @@
-![logo](/assets/banner.gif)
-## Hey, <a href="https://www.mari.games" target="_blank">Mari's here!</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-<h3 align="center">A passionate java developer from India</h3><br>
-<img align="right" alt ="coding" width="400" src="/assets/computing.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-aadhi&label=Profile%20views&color=0e75b6&style=flat" alt="m-aadhi" /> </p>
+![banner](assets/banner.gif)
 
-- 🌱 I’m currently studying **College.**
+![Marimuthu R · Data Lead](assets/banner-data-lead.png)
 
-- 💬 I love **Java , Linux , Valorant.**
+## Hi, I'm Mari 👋
 
-- 📫 To reach me **[Connect.](https://www.linkedin.com/in/i-will-take-u-2-my-dp/)**<br>
-                 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/i-will-take-u-2-my-dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-will-take-u-2-my-dp" height="30" width="40" /></a>
-<a href="https://instagram.com/its.__aadhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.__aadhi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ezioabaddon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/ezioabaddon" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/M-Aadhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="profile/M-Aadhi" height="30" width="40" /></a></p><br>
+**Data Lead** for a real estate business in Texas. I own the data platform end to end: the
+pipelines that bring data in, the data warehouse that organises it, and the Power BI reports and
+dashboards the business uses to make decisions every day. 2+ years in data engineering and
+analytics, now building on **Databricks**.
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-aadhi&" alt="m-aadhi" /></p><br>
-
-
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Marimuthu'
-		current_work = 'Writing code while studying in college '
-		hobbies = [
-				'Gaming',
-				'Watching Anime',
-				'Reading Manga',
-				'Chill Out',
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getLocation():
-		return TamilNadu("Coimbatore")
-	
-	def Ambitions():
-		LearnJapanese()
-		StayPeace()
-		LiveWithNoRegrets()
-		# Pretend 10 more cool ambitions here  ;)
-	
- ```
-
-<br>
-    
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-aadhi&show_icons=true&locale=en&layout=compact" alt="m-aadhi" /></p>
-
-
-<p><img align="right" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif?raw=true" /></p><br>  
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=m-aadhi&show_icons=true&locale=en" alt="m-aadhi" /></p><br> 
-<br>
-
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+<p>
+  <img src="https://img.shields.io/badge/Role-Data%20Lead-FF6B4A?style=flat-square" alt="Data Lead" />
+  <img src="https://img.shields.io/badge/Industry-Real%20Estate%20(Texas)-0F1729?style=flat-square" alt="Real Estate" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20years-0F1729?style=flat-square" alt="2+ years" />
+  <a href="https://www.linkedin.com/in/zeb-mari"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<h>There are 10 types of people in the world. Those who get Binary and those who don't...</h>
+### 🏗️ What I do
 
+- **Data pipelines:** bring data from business systems into one reliable place, on schedule.
+- **Data warehouse:** model and maintain the tables the whole business reports from.
+- **BI and dashboards:** Power BI reports that leadership actually uses.
+- **Databricks:** building the platform, plus exploring Genie, AI/BI dashboards and Databricks Apps.
+- **Automation:** Python and AI (Claude) to remove manual reporting work.
+
+### 🧰 Tech stack
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🚀 Featured projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [**ecommerce-weekly-briefing**](https://github.com/M-Aadhi/ecommerce-weekly-briefing) | Combines Shopify-style sales and Meta/Google Ads data, calculates weekly KPIs, flags problems (ROAS below target, refund spikes) and writes a management briefing to Slack, every Monday. | Python · pandas · GitHub Actions · Slack |
+| [**linkedin-data-skills**](https://github.com/M-Aadhi/linkedin-data-skills.) | Claude AI skills for a data professional's LinkedIn: profile review, post writing, scheduling. Every post is approved by a human first. | Claude · Python · Publora API |
+| [**Anime-Ratings-Analysis-PowerBI**](https://github.com/M-Aadhi/Anime-Ratings-Analysis-PowerBI) | Interactive Power BI analysis of anime ratings. | Power BI |
+| [**game-review-sentiment-analysis**](https://github.com/M-Aadhi/game-review-sentiment-analysis) | Sentiment analysis on game reviews. | Python · NLP |
+| [**MOVIE-RATING-PREDICTION**](https://github.com/M-Aadhi/MOVIE-RATING-PREDICTION) | Predicts movie ratings with machine learning. | Python · scikit-learn |
+
+### 🔭 Right now
+
+- Bringing **Databricks Genie** and **AI/BI dashboards** to business users
+- Writing on LinkedIn about data, Databricks and automation
+- Learning: Databricks Apps, data quality and governance
+
+### 📊 GitHub activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M-Aadhi&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=M-Aadhi&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+### 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zeb--mari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeb-mari)
+[![LeetCode](https://img.shields.io/badge/LeetCode-M--Aadhi-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/M-Aadhi)
+[![HackerRank](https://img.shields.io/badge/HackerRank-ezioabaddon-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/ezioabaddon)
+
+<details>
+<summary>🎮 Off the clock</summary>
+
+```python
+class Mari:
+    location = "Coimbatore, Tamil Nadu"
+    hobbies = ["Valorant", "Anime", "Manga", "Chasing that ONE bug at 2 AM"]
+    ambitions = ["Learn Japanese", "Stay at peace", "Live with no regrets"]
+```
+</details>
+
+<p align="center">
+  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+<p align="center"><i>There are 10 types of people in the world: those who understand binary and those who don't.</i></p>
